@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+.main-content {
+  /* Your existing styles */
+  margin-left: 270px; /* Ensure this matches the width of your sidebar */
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -14,7 +17,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #EDEDED;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

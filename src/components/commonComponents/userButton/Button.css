@@ -1,0 +1,21 @@
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-box {
+    background-color: #f0f0f0;
+    padding: 18px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.logo-icon {
+    color: #333;
+}
+
+.logo-text {
+    margin-top: 10px;
+    font-size: 15px;
+}
